@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #202020;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 1em;
+  }
+  
+  .timeline ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .timeline li {
+    margin: 0.5em 0;
+  }
+  
+  .timeline a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .timeline a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em 0;
+    background: #202020;
+    color: #fff;
+  }
+  
